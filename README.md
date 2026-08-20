@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Yokomi-YBJ
-- 👀 I’m interested in JS
-- I'm a Backend Developer
-- 🌱 I’m currently learning C#, JS and PHP
-
+Hi there, I'm Yokomi Beyea Josaphat 👋🚀 Fullstack & Multi-Platform Software Developer👨‍💻 About MeTitulaire d'un DUT en Génie Informatique (spécialité Génie Logiciel) basé à Ngaoundéré, Cameroun, je suis un développeur Fullstack passionné spécialisé dans la conception et le développement de solutions logicielles complètes : Web, Mobile, Desktop et Backend.🔭 Ce que je fais : Je transforme des besoins complexes en applications performantes, sécurisées et bien architecturées.🎓 Formation : DUT Génie Informatique (IUT de Ngaoundéré) & Baccalauréat TI.💡 Domaines d'intérêt : Architecture logicielle, systèmes d'information hospitaliers & éducatifs, intelligence artificielle appliquée, gaming et musique.💬 Langues : Français (Courant) | Anglais (Intermédiaire)🛠️ Tech Stack & Tools🌐 Frontend & Web📱 Mobile Development🖥️ Desktop Development⚙️ Backend & APIs🛢️ Databases & Modeling🔧 Tools & OS📌 Featured Projects📈 GitHub Stats📬 Get in Touch🌐 Portfolio : yokomi-potofolio.onrender.com💼 LinkedIn : Josaphat Yokomi Beyea📧 Email : beyeayokomi@gmail.com📱  Localisation : Ngaoundéré, Cameroun
