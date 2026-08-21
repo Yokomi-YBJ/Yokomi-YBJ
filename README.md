@@ -1,114 +1,117 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+</div>
 
-# Yokomi Beyea Josaphat
-
-**Développeur Fullstack · Backend · Mobile · Desktop**  
-Ngaoundéré, Cameroun 🇨🇲
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yokomi--potofolio.onrender.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://yokomi-potofolio.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josaphat_Yokomi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josaphat-yokomi-beyea-aa08933b4)
-[![GitHub](https://img.shields.io/badge/GitHub-Yokomi--YBJ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yokomi-YBJ)
-[![Email](https://img.shields.io/badge/Email-beyeayokomi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:beyeayokomi@gmail.com)
-
+<div align="center">
+  <h1>Yokomi Beyea Josaphat</h1>
+  <p><strong>Fullstack Developer · Backend-first · Web · Mobile · Desktop</strong></p>
+  <p>
+    <a href="https://yokomi-potofolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-yokomi--potofolio.onrender.com-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    &nbsp;
+    <a href="mailto:beyeayokomi@gmail.com"><img src="https://img.shields.io/badge/Email-beyeayokomi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/josaphat-yokomi-beyea-aa08933b4"><img src="https://img.shields.io/badge/LinkedIn-Josaphat_Yokomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
 </div>
 
 ---
 
-## À propos
+## Who I am
 
-Développeur fullstack diplômé d'un **DUT en Génie Informatique** (Génie Logiciel) à l'IUT de Ngaoundéré. Je conçois et déploie des solutions web, mobiles et desktop pour des secteurs où la technologie fait encore défaut — hôpitaux, établissements scolaires, restauration locale.
+I'm a **fullstack developer with a backend-first mindset**, building production-grade systems for sectors that still rely on paper — hospitals, schools, local food services.
 
-Je travaille sous l'enseigne **Salaamun Group SAS** et j'interviens aussi comme **formateur en développement frontend**.
+I design APIs, model databases, architect mobile and desktop apps, and ship them end to end. My stack spans web, mobile (React Native), and desktop (.NET/Avalonia). I also teach frontend development and work under my own firm, **Salaamun Group SAS**, building custom software for Cameroonian institutions.
 
-Ce qui m'anime en dehors du code : l'histoire et les traditions orales du Cameroun — une passion qui a d'ailleurs donné naissance à [Langoua](#-projets).
-
----
-
-## 🛠 Stack technique
-
-**Web & Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Mobile & Desktop**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=flat-square&logo=dotnet&logoColor=white)
-
-**Bases de données & Conception**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Outils**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+I hold a **DUT in Software Engineering** from IUT de Ngaoundéré, and I'm rooted in the Mambila community — a background that directly inspired [Langoua](#-projects), a genealogy app built around African oral traditions.
 
 ---
 
-## 🚀 Projets
+## Tech stack
 
-### 🎓 Mon IUT — Plateforme numérique pour l'IUT de Ngaoundéré
-> `React Native` · `Expo` · `PHP` · `MySQL` · `API REST`
+### Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,ts,js,html,css" />
+</p>
 
-App mobile étudiants + interfaces web admin/enseignants. Centralise emplois du temps, notes avec moyenne pondérée, documents et notifications — tout ce qui était éparpillé entre tableaux d'affichage et groupes WhatsApp.
+### Mobile & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=react,cs,dotnet" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### Databases & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/UML%20%2F%20Merise-6d28d9?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge"/>
+</p>
+
+### Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+</p>
 
 ---
 
-### 🍽 LaTchop — Commande de repas locaux
-> `React Native` · `Node.js` · `Express.js` · `SQL`
+## Projects
 
-Application de commande pensée pour Ngaoundéré : menu du jour, commande en un geste, suivi de livraison en temps réel. Backend centralisé pour la gestion des commandes et des stocks.
-
----
-
-### 🏥 StatistiqueHGG — Tableau de bord hospitalier
-> `Avalonia UI` · `.NET` · `C#` · `SQL`
-
-Système desktop développé à l'Hôpital Général de Garoua. Centralise consultations, hospitalisations, accouchements, vaccinations et alertes épidémiologiques dans un tableau de bord unique avec génération automatisée de rapports.
+> Each project solves a real problem in a context where digital infrastructure is still scarce.
 
 ---
 
-### 🌳 Langoua — Généalogie & Histoire familiale
-> `React Native` · `Node.js` · `IA conversationnelle`
+### 🎓 Mon IUT — Digital hub for IUT de Ngaoundéré
+`React Native` · `Expo` · `PHP` · `MySQL` · `REST API`
 
-Plateforme mobile dédiée à l'histoire et à la généalogie familiale, avec une assistance intelligente pour la recherche guidée et la reconstitution d'arbres familiaux. Un projet personnel ancré dans la préservation du patrimoine culturel camerounais.
+Replaces paper schedules, bulletin boards and WhatsApp blasts with one unified platform. Students get timetables, weighted grades, documents, and push notifications. The PHP backend serves both a REST API for the mobile app and dedicated web interfaces for admins, teachers, and coordinators.
 
 ---
 
-## 📊 GitHub Stats
+### 🍽️ LaTchop — Local food ordering, Ngaoundéré
+`React Native` · `Node.js` · `Express.js` · `SQL`
+
+Order your local meal in one tap, track delivery in real time. Centralized backend handles order routing, kitchen stock and delivery state across multiple vendors.
+
+---
+
+### 🏥 StatistiqueHGG — Hospital dashboard, Hôpital Général de Garoua
+`Avalonia UI` · `.NET` · `C#` · `SQL`
+
+Built during my internship at HGG. Consolidates consultations, hospitalizations, births, vaccinations and epidemic alerts into a single desktop dashboard with automated report generation — replacing a fragmented, manual reporting process.
+
+---
+
+### 🌳 Langoua — Genealogy & family memory
+`React Native` · `Node.js` · `Conversational AI`
+
+A mobile platform for African family history and oral heritage. Guided genealogical search, family tree reconstruction, and a conversational AI layer to help users explore their own lineage. Built from a personal need — preserving the oral traditions of the Mambila community.
+
+---
+
+## GitHub activity
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yokomi-YBJ&show_icons=true&hide_border=true&title_color=6d28d9&icon_color=6d28d9&text_color=e2e8f0&bg_color=0f0f0f&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokomi-YBJ&layout=compact&hide_border=true&title_color=6d28d9&text_color=e2e8f0&bg_color=0f0f0f&langs_count=8" />
+</div>
 
-![Yokomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokomi-YBJ&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokomi-YBJ&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff)
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yokomi-YBJ&bg_color=0f0f0f&color=6d28d9&line=6d28d9&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 📬 Me contacter
-
-- **Email :** [beyeayokomi@gmail.com](mailto:beyeayokomi@gmail.com)
-- **Téléphone :** +237 691 09 40 48
-- **LinkedIn :** [linkedin.com/in/josaphat-yokomi-beyea-aa08933b4](https://www.linkedin.com/in/josaphat-yokomi-beyea-aa08933b4)
-- **Portfolio :** [yokomi-potofolio.onrender.com](https://yokomi-potofolio.onrender.com)
-
----
+<div align="center">
+  <sub>Built from Ngaoundéré, Cameroon 🇨🇲 &nbsp;·&nbsp; <a href="https://yokomi-potofolio.onrender.com">yokomi-potofolio.onrender.com</a></sub>
+</div>
 
 <div align="center">
-  <sub>Construit avec rigueur depuis Ngaoundéré 🇨🇲</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 </div>
