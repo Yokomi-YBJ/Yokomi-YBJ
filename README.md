@@ -20,7 +20,7 @@
 
 I'm a **fullstack developer with a backend-first mindset**, building production-grade systems for sectors that still rely on paper — hospitals, schools, local food services.
 
-I design APIs, model databases, architect mobile and desktop apps, and ship them end to end. My stack spans web, mobile (React Native), and desktop (.NET/Avalonia). I also teach frontend development and work under my own firm, **Salaamun Group SAS**, building custom software for Cameroonian institutions.
+I design APIs, model databases, architect mobile and desktop apps, and ship them end to end. My stack spans web, mobile (React Native), and desktop (.NET/Avalonia). I also learn frontend development.
 
 I hold a **DUT in Software Engineering** from IUT de Ngaoundéré, and I'm rooted in the Mambila community — a background that directly inspired [Langoua](#-projects), a genealogy app built around African oral traditions.
 
